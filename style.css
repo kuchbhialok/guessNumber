@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(3, 191, 40);
+}
+.container{
+    height: 150px;
+    background-color: rgb(33, 99, 3);
+    color: aliceblue;
+    border-radius: 20px;
+}
